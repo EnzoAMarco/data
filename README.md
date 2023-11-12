@@ -7,3 +7,5 @@ Indice de proyectos:
     # p2_movies_jupyter, es un proyecto que muestra la correlación entre el presupuesto y la ganancia bruta 
     investigando una base de datos de películas que se puede encontrar en 
     https://www.kaggle.com/datasets/danielgrijalvas/movies. 
+
+    #p3_Mean_Variance_Standard_Deviation_Calculator, sobre una matriz 3x3 calcula promedio, Varianza y Desviación típica.
